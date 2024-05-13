@@ -16,8 +16,8 @@ A equipe da Caixa Econômica Federal, tem como objetivo desenvolver uma classe c
 
 ```bash
 
-git clone 
-cd 
+git clone https://github.com/Nathtruyts/Mock-Objects
+cd Mock_Objects
 ```
 
 ### Configurarando o Ambiente Virtual
